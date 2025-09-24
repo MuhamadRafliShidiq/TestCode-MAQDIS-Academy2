@@ -4,6 +4,6 @@
 
 -. npm init -y -. npm i express -. npm i g nodemon
 
-# Run Aplication
+# Run Application
 
 -. nodemon nama_file.js
